@@ -1,14 +1,6 @@
 {
     "replacements": [
       {
-        "replace": "hello",
-        "with": "hi"
-      },
-      {
-        "replace": "moin",
-        "with": "hi2"
-      },
-      {
         "replace": ":gopher:",
         "with": "https://emojis.slackmojis.com/emojis/images/1643515422/14426/gopher.png"
       },
